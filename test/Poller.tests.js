@@ -1,5 +1,4 @@
 const {describe, it} = require('mocha');
-const fetch = require('node-fetch');
 const assert = require('assert').strict;
 
 const {Poller} = require('../index');

@@ -1,0 +1,26 @@
+{
+  "name": "poll-retry",
+  "version": "0.0.1",
+  "description": "Simple Polling and Retry pattern for Node.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toshish/poll-retry.git"
+  },
+  "author": "Toshish Jawale <toshish@symbl.ai>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toshish/poll-retry/issues"
+  },
+  "homepage": "https://github.com/toshish/poll-retry#readme",
+  "devDependencies": {
+    "mocha": "^7.1.2"
+  }
+}

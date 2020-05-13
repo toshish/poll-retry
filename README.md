@@ -1,6 +1,6 @@
 # Poll Retry
 
-Very simple polling abstraction to keep polling.
+Very simple abstraction to keep polling.
 
 ## Installation
 `npm install poll-retry`

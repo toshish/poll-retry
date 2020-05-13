@@ -1,7 +1,8 @@
 {
   "name": "poll-retry",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simple Polling and Retry pattern for Node.",
+  "keywords": ["poll", "poller", "polling", "retry", "condition", "delay", "polling status"],
   "main": "index.js",
   "directories": {
     "lib": "lib",

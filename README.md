@@ -3,7 +3,9 @@
 Very simple abstraction to keep polling.
 
 ## Installation
-`npm install poll-retry`
+```bash
+npm install poll-retry
+```
 
 ## Usage
 
